@@ -1,0 +1,3 @@
+1. Podatci se mjeru po temperaturi sobe i količine CO2 u zraku. Količina CO2 više prati kvadratnu funkciju u slobodnim sobama. Zauzete sobe imaju više CO2 sa manjom temperaturom i manje CO2 sa višom temperaturom.
+2. 10130
+3. Podatci su podjeljeni na 2 grupe: Zauzeta i Slobodna.
